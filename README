@@ -1,0 +1,6 @@
+vbf
+---
+
+This is a Brainfuck-to-C compiler. You give it a Brainfuck (.b) file, and it
+gives you a C (.c) file. I have shipped a few examples along with it so you
+can try things out.
